@@ -10,6 +10,13 @@ h1 {
 	text-transform: uppercase;
 }
 
+h3 {
+	font-size: 1em
+    	color: white;
+    	text-align: center;
+    	text-transform: none;
+}
+
 .button {
     margin: 10px;
     height: 30px;
