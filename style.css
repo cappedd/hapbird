@@ -15,6 +15,13 @@ h1 {
 	width: 100%;
 }
 
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+	color: white;
+	text-align: center;
+	text-transform: lowercase;
+}
+
 .button {
 	margin: 10px;
 	height: 30px;
